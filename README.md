@@ -5,6 +5,14 @@
 # 1. Introduction:
 The Simple Search Application is a Python-based tool that allows users to search for relevant documents based on a query input. The application preprocesses a collection of research papers, calculates the TF-IDF (Term Frequency-Inverse Document Frequency) scores for each document, and ranks the documents based on their similarity to the user's query.
 
+# Tools and Libraries
+The project utilizes the following tools and libraries:
+•	Python 3.x
+•	NLTK (Natural Language Toolkit)
+o	Installation: pip install nltk
+•	Tkinter (for GUI)
+o	Pre-installed with Python
+
 # 2. Features:
 - GUI Interface: The application provides a simple graphical user interface (GUI) using the Tkinter library, making it easy for users to interact with the search functionality.
   
@@ -26,6 +34,13 @@ The Simple Search Application is a Python-based tool that allows users to search
 # 4. Snapshots:
  
  see the images uploaded
+
+# How to Run Code
+•	Install Python and required libraries.
+•	Download the dataset and extract it.
+•	Run the main script VSM.py.
+•	Make sure to change the path of directory in VSM.py to the directory where you extracted dataset.
+
 
 # 5. Conclusion:
 The Simple Search Application provides a straightforward and efficient way for users to search through a collection of research papers. By implementing basic information retrieval techniques and providing a user-friendly interface, the application enables users to find relevant documents quickly and effectively.
